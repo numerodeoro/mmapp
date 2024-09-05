@@ -1,5 +1,5 @@
 # mmapp
-ESta es mi primer mini aplicacion java. 
+Esta es mi primer mini aplicacion java. 
 Estuve estudiando Java por mi cuenta, con algunas rutas de aprendizaje de microsoft learning y un cursito en Udemy de Java con netBeans.
 Pero donde realmente aprendí algo y pude sentarme a hacer algo propio (en lugar de repetir el código del profe), fue con un curso gratuito de YouTube. 
 En ese curso escribíamos el codigo en notepad (por eso el código esta en archivos txt).
