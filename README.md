@@ -2,13 +2,13 @@
 Este fue mi primer proyecto Java hecho completamente por mí, desde cero. Después de recorrer varias rutas de aprendizaje, decidí encarar algo propio, útil y funcional, como parte de mi camino autodidacta.
 
 ## ✏️ Sobre el proceso
-Empecé estudiando Java por mi cuenta con:
+### Empecé estudiando Java por mi cuenta con:
 
-### Rutas de aprendizaje de Microsoft Learn
+* **Rutas de aprendizaje de Microsoft Learn**
 
-### Un curso en Udemy sobre Java con NetBeans
+* **Un curso en Udemy sobre Java con NetBeans**
 
-### Un curso gratuito de YouTube que me resultó muy útil. En él, escribíamos el código en Notepad y compilábamos desde la terminal.
+* **Un curso gratuito de YouTube que me resultó muy útil. En él, escribíamos el código en Notepad y compilábamos desde la terminal.**
 
 Después de seguir el curso y replicar el ejemplo del profesor, me animé a diseñar mi propia interfaz.
 Me senté con papel y lápiz a pensar algo útil para mí, y ahí empezó el verdadero aprendizaje: buscar soluciones por mi cuenta, corregir errores, entender cada línea de código.
