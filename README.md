@@ -1,5 +1,41 @@
-# mmapp
-Esta es mi primer mini aplicacion java. Estuve estudiando Java por mi cuenta, con algunas rutas de aprendizaje de microsoft learning y un cursito en Udemy de Java con netBeans.  
-Pero donde realmente aprendí algo y pude sentarme a hacer algo propio (en lugar de repetir el código del profe), fue con un curso gratuito de YouTube. En ese curso escribíamos el codigo en notepad (por eso el código está en archivos txt).  
-Luego de hacer el curso y repetir la pequeña interfaz que el profesor fue haciendo durante las clases, me senté con unas hojas de papel a pensar una que fuera útil para mí. Aquí aprendí aún más, porque había cosas que no había estudiado en el curso y tuve que buscarlas por mi cuenta e ir corrigiendo el código sin ayuda más que chat GPT, los mensajes de error en el cmd y mi sentido común.   
-Me esforcé en la prolijidad del código, manteniendo buenas prácticas de indentado y separación de líneas y tratando de entender el porqué de cada línea que escribía. Ya sé que es una interfaz sencilla y que tengo mucho por aprender aún, pero es un gran motivador haber diseñado un proyecto y haberlo podido llevar a cabo sola.
+# 💻 mmapp – Mi primera mini aplicación Java
+Este fue mi primer proyecto Java hecho completamente por mí, desde cero. Después de recorrer varias rutas de aprendizaje, decidí encarar algo propio, útil y funcional, como parte de mi camino autodidacta.
+
+## ✏️ Sobre el proceso
+Empecé estudiando Java por mi cuenta con:
+
+### Rutas de aprendizaje de Microsoft Learn
+
+### Un curso en Udemy sobre Java con NetBeans
+
+### Un curso gratuito de YouTube que me resultó muy útil. En él, escribíamos el código en Notepad y compilábamos desde la terminal.
+
+Después de seguir el curso y replicar el ejemplo del profesor, me animé a diseñar mi propia interfaz.
+Me senté con papel y lápiz a pensar algo útil para mí, y ahí empezó el verdadero aprendizaje: buscar soluciones por mi cuenta, corregir errores, entender cada línea de código.
+
+Tuve que investigar cosas que el curso no cubría, y resolví todo con ayuda de:
+
+### ChatGPT
+
+### Mensajes de error del compilador
+
+### ...y mucho sentido común.
+
+## 🎯 Objetivo del proyecto
+Más allá de lo que hace esta aplicación (que es sencilla), el objetivo principal fue probarme a mí misma que podía desarrollar algo sola, sin copiar código, entendiendo cada paso.
+
+### Me esforcé en:
+
+* **Mantener el código prolijo y bien indentado**
+
+* **Seguir buenas prácticas básicas**
+
+* **Documentar con comentarios donde hiciera falta**
+
+* **Organizar cada archivo aunque estuviera en .txt, como hacíamos en el curso**
+
+## ✨ Reflexión
+Sé que es un proyecto pequeño, pero fue una gran motivación.
+Diseñé una idea desde cero, la programé sola y logré que funcione.
+
+Sigo aprendiendo, pero este proyecto fue un hito.
