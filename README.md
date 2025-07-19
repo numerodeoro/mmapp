@@ -44,7 +44,7 @@ mmapp/
 ├── mmapp.jar          * *aplicación empaquetada*
 
 └── README.md
-### 📌 Para ejecutar el programa asegurate de mantener el archivo mmapp.jar en la misma carpeta que images/.
+**📌 Para ejecutar el programa asegurate de mantener el archivo mmapp.jar en la misma carpeta que images/.**
 
 ## ✨ Reflexión
 Sé que es un proyecto pequeño, pero fue una gran motivación.
