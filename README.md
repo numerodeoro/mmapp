@@ -34,6 +34,14 @@ Más allá de lo que hace esta aplicación (que es sencilla), el objetivo princi
 
 * **Organizar cada archivo aunque estuviera en .txt, como hacíamos en el curso**
 
+## 🗂️ Estructura del proyecto
+mmapp/
+├── images/            * *contiene las imágenes necesarias para la interfaz*
+├── src/               * *contiene los archivos .java, .class y .txt del proyecto*
+├── mmapp.jar          * *aplicación empaquetada*
+└── README.md
+### 📌 Para ejecutar el programa asegurate de mantener el archivo mmapp.jar en la misma carpeta que images/.
+
 ## ✨ Reflexión
 Sé que es un proyecto pequeño, pero fue una gran motivación.
 Diseñé una idea desde cero, la programé sola y logré que funcione.
