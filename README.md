@@ -1,5 +1,5 @@
 # 💻 mmapp – Mi primera mini aplicación Java
-Este fue mi primer proyecto Java hecho completamente por mí, desde cero. Después de recorrer varias rutas de aprendizaje, decidí encarar algo propio, útil y funcional, como parte de mi camino autodidacta.
+Este fue mi primer proyecto Java hecho de principio a fin por mí, como parte de mi recorrido autodidacta. Más allá de su sencillez, significó un gran paso: dejar de replicar código de cursos y animarme a crear algo propio, útil y funcional.
 
 ## ✏️ Sobre el proceso
 ### Empecé estudiando Java por mi cuenta con:
@@ -8,7 +8,7 @@ Este fue mi primer proyecto Java hecho completamente por mí, desde cero. Despu�
 
 * **Un curso en Udemy sobre Java con NetBeans**
 
-* **Un curso gratuito de YouTube que me resultó muy útil. En él, escribíamos el código en Notepad y compilábamos desde la terminal.**
+* **Un curso gratuito de YouTube** En él, escribíamos el código en Notepad y compilábamos desde la terminal.
 
 Después de seguir el curso y replicar el ejemplo del profesor, me animé a diseñar mi propia interfaz.
 Me senté con papel y lápiz a pensar algo útil para mí, y ahí empezó el verdadero aprendizaje: buscar soluciones por mi cuenta, corregir errores, entender cada línea de código.
@@ -32,9 +32,9 @@ Más allá de lo que hace esta aplicación (que es sencilla), el objetivo princi
 
 * **Documentar con comentarios donde hiciera falta**
 
-* **Organizar cada archivo aunque estuviera en .txt, como hacíamos en el curso**
+* **Organizar cada archivo, aunque estuviera en .txt**
 
-## 🗂️ Estructura del proyecto
+## 🗂️ Estructura del repositorio
 mmapp/
 
 ├── images/            * *contiene las imágenes necesarias para la interfaz*
@@ -49,5 +49,4 @@ mmapp/
 ## ✨ Reflexión
 Sé que es un proyecto pequeño, pero fue una gran motivación.
 Diseñé una idea desde cero, la programé sola y logré que funcione.
-
 Sigo aprendiendo, pero este proyecto fue un hito.
