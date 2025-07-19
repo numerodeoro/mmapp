@@ -13,13 +13,13 @@ Este fue mi primer proyecto Java hecho completamente por mí, desde cero. Despu�
 Después de seguir el curso y replicar el ejemplo del profesor, me animé a diseñar mi propia interfaz.
 Me senté con papel y lápiz a pensar algo útil para mí, y ahí empezó el verdadero aprendizaje: buscar soluciones por mi cuenta, corregir errores, entender cada línea de código.
 
-Tuve que investigar cosas que el curso no cubría, y resolví todo con ayuda de:
+### Tuve que investigar cosas que el curso no cubría, y resolví todo con ayuda de:
 
-### ChatGPT
+* **ChatGPT**
 
-### Mensajes de error del compilador
+* **Mensajes de error del compilador**
 
-### ...y mucho sentido común.
+* **...y mucho sentido común.**
 
 ## 🎯 Objetivo del proyecto
 Más allá de lo que hace esta aplicación (que es sencilla), el objetivo principal fue probarme a mí misma que podía desarrollar algo sola, sin copiar código, entendiendo cada paso.
