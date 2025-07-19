@@ -49,6 +49,9 @@ mmapp/
 
 ## 📷 Vista de la aplicación
 Una imagen de la interfaz gráfica creada con Java y Swing.
+
+
+
 <img width="444" height="450" alt="image" src="https://github.com/user-attachments/assets/a5fe7b08-2d05-4950-b16b-6be48da41387" />
 
 ## ✨ Reflexión
