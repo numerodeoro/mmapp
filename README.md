@@ -34,6 +34,20 @@ Más allá de lo que hace esta aplicación (que es sencilla), el objetivo princi
 
 * **Organizar cada archivo, aunque estuviera en .txt**
 
+## 🧾 ¿Para qué sirve esta aplicación?
+Esta miniaplicación fue diseñada para que mis alumnos y clientes puedan ensayar presupuestos de forma autónoma, sin necesidad de consultarme cada vez que desean ajustar su plan.
+
+Al ingresar un valor base actualizado (que se ajusta periódicamente debido a la inflación), el programa calcula automáticamente los precios relativos de los diferentes servicios que ofrezco. Así, cada persona puede explorar combinaciones posibles según:
+
+* **Cuánto quiere o puede gastar.**
+
+* **Qué servicios le interesan.**
+
+* **Cómo afectan los cambios en el valor base al costo total.**
+
+### 🛠️ Una herramienta simple, pero útil para fomentar la autonomía financiera y optimizar el tiempo de ambas partes.
+
+
 ## 🗂️ Estructura del repositorio
 mmapp/
 
